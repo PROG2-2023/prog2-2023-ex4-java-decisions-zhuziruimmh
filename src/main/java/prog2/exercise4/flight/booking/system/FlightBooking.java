@@ -437,11 +437,6 @@ public double getReturnTicketPrice()
     return returnTicketPrice;
 }
 
-public void setTotalPassengers(int i, int j) {
-}
-public String getTripDestination() {
-    return null;
-}
 }
 
 
